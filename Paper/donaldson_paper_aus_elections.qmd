@@ -5,6 +5,10 @@ thanks: "Code and data from this analysis are available at: https://github.com/s
 date: today
 date-format: long
 abstract: "Gender disparities among political candidates, within and across political parties, are not novel. Using data sourced from the Australian Electoral Commission (AEC), this analysis highlights the stark difference in female and male political candidates in the Australian House of Representatives. In a positive light, this paper will also support that there have been recent advancements in the number of female Australian political candidates serving as Members of Parliament, for instance, through gender quotas within parties."
+execute: 
+  echo: false
+  message: false
+  warning: false
 format:
   pdf:
     toc: true
