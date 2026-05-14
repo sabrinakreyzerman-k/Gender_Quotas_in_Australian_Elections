@@ -134,6 +134,12 @@ A marginal increase is revealed in the percentage of female Liberal MPs elected 
 
 ## Labor Party and Liberal Party Female Candidates Elected to Australian Parliament between 1983 and 2021
 
+As @tbl-female-labor-mps and @tbl-female-liberal-mps merely display the percentage of female MPs from the respective parties elected directly following new Labor Party gender quotas, the tables do not account for gradual effects over time.
+
+For this reason, @fig-female-mps-over-time depicts the number of both female Labor Party MPs and Liberal Party MPs elected to Parliament from 1983 until 2021. This timeline was selected because five elections occurred in Australia between 1983 and 1994, when Labor Party gender quotas were introduced. This allows us to analyze the impact of gender quotas on the election of female MPs to parliament against a period in which they did not exist.
+
+Lastly, @fig-female-mps-over-time includes two line plots that respectively represent the number of female Labor Party MPs and female Liberal Party MPs elected over the selected period. Consequently, we are able to directly compare the effects of Labor Party gender quotas on the election of female MPs from each party against one another.
+
 ```{r}
 #| label: fig-female-mps-over-time
 #| fig-cap: "Number of Liberal Party MPs by gender elected directly following new Labor Party gender quotas"
